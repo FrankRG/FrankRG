@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrankRG
-- 👀 I’m interested in Saelsforce Development
+- 👀 I’m interested in Salesforce Development
 - 🌱 I’m currently learning Apex.
 - 📫 How to reach me: Message me
 
